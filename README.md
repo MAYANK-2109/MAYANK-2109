@@ -175,7 +175,6 @@
   <img width="100%" src="https://raw.githubusercontent.com/MAYANK-2109/MAYANK-2109/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 </picture>
 
-<sub>Generated automatically from my contribution history and refreshed every day.</sub>
 
 </div>
 
